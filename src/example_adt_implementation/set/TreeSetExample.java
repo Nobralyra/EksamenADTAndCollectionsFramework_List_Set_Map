@@ -11,6 +11,7 @@ public class TreeSetExample
 
     public void addElements()
     {
+        System.out.println("TreeSet: ");
         smallTreeSetExample.add("A");
         smallTreeSetExample.add("B");
         smallTreeSetExample.add("C");

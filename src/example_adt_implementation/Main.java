@@ -9,9 +9,9 @@ public class Main {
     public static void main(String[] args)
     {
         ManipulateArrayList manipulateArrayList = new ManipulateArrayList();
-        //manipulateArrayList.funWithArrayList();
+        manipulateArrayList.funWithArrayList();
         ManipulateHashMap manipulateHashMap = new ManipulateHashMap();
-        //manipulateHashMap.funWithHashMap();
+        manipulateHashMap.funWithHashMap();
         ManipluateTreeSet manipluateTreeSet = new ManipluateTreeSet();
         manipluateTreeSet.funWithTreeSet();
     }

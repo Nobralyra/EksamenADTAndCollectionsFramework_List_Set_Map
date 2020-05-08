@@ -9,6 +9,7 @@ public class HashMapExample
 
     public void addKeyValue()
     {
+        System.out.println("HashMap: ");
         smallHashMapExample.put(1,  "A");
         smallHashMapExample.put(2,  "B");
         smallHashMapExample.put(3,  "C");

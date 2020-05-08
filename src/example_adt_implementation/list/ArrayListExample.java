@@ -11,6 +11,7 @@ public class ArrayListExample
 
     public void addElements()
     {
+        System.out.println("ArrayList: ");
         smallArrayListExample.add("element 1");
         smallArrayListExample.add("element 2");
         smallArrayListExample.add("element 3");

@@ -51,9 +51,9 @@ public class HashMapExample
     {
         for(Map.Entry<Integer, String> entry : smallHashMapExample.entrySet())
         {
-            Integer key = entry.getKey();
-            String value = entry.getValue();
-            System.out.println("The key is: " + key + ", and value is: " + value);
+            //Integer key = entry.getKey();
+            //String value = entry.getValue();
+            System.out.println("The key and value is : " + entry);
         }
     }
 }

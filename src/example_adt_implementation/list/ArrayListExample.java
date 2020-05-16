@@ -8,7 +8,6 @@ public class ArrayListExample
     //Empty arraylist
     List<String> smallArrayListExample = new ArrayList<>();
 
-
     public void addElements()
     {
         System.out.println("ArrayList: ");

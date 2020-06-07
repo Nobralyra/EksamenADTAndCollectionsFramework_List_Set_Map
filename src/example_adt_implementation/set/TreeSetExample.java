@@ -5,7 +5,7 @@ import java.util.TreeSet;
 public class TreeSetExample
 {
     /**
-     * Can not refrere to interface Set, because it have no order, and I want to use the methods higher and lower, from TreeSet
+     * Can not use interface Set (no order) - want to use methods higher and lower from TreeSet
      */
     TreeSet<String> smallTreeSetExample = new TreeSet<>();
 
